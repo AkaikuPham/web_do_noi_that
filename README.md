@@ -1,7 +1,4 @@
-# do_an_tot_nghiep
-
-# Ho ten: Phạm Văn Long MSV: 2018600640
-
+# web ban do noi that
 - Cài đặt xampp có php phiên bản 8.0
 - Cài đặt composer
 - bật xampp lên start Apache và MySQL
